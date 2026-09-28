@@ -1,4 +1,4 @@
-# 🐕 Hound Express v2
+# 🐕 Hound Express - Frontend
 
 ## 📖 Description
 Hound Express v2 is a refactored version of an e-commerce project, rebuilt with React and TypeScript. It is a single-page application (SPA) that consumes data through HTTP requests, handles global state with Redux Toolkit, and uses client-side routing for navigation between views.
